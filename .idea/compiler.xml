@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="forum-chat" />
+        <module name="forum-portal" />
+        <module name="forum-rest" />
+        <module name="forum-common" />
+        <module name="forum-admin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="forum-admin" target="1.8" />
+      <module name="forum-chat" target="1.8" />
+      <module name="forum-common" target="1.8" />
+      <module name="forum-parent" target="1.8" />
+      <module name="forum-portal" target="1.8" />
+      <module name="forum-rest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

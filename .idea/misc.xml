@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/forum-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/forum-portal" />
+    <file type="web" url="file://$PROJECT_DIR$/forum-rest" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/forum-chat/pom.xml" />
+        <option value="$PROJECT_DIR$/forum-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/forum-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/forum-common/pom.xml" />
+        <option value="$PROJECT_DIR$/forum-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/forum-portal/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

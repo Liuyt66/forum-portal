@@ -1,0 +1,6 @@
+# Project exclude paths
+/forum-admin/target/
+/forum-chat/target/
+/forum-common/target/
+/forum-portal/target/
+/forum-rest/target/
